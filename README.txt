@@ -41,9 +41,9 @@ Sistema de controle de gastos residenciais.
 ### Frontend
 1. cd ControleGastos.Front
 2. Abra o terminal
-3. Restaurar dependências - dotnet restore
+3. Instale dependências - npm install
 4. Execute o projeto - npm run dev
-4. Porta Back - 5173
+5. Porta Front - 5173
 
 Obs -> 
 1. Verificar versão do SDK, foi utilizado .Net10 no desenvolvimento.
