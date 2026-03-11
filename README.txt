@@ -46,5 +46,6 @@ Sistema de controle de gastos residenciais.
 4. Porta Back - 5173
 
 Obs -> 
+1. Verificar versão do SDK, foi utilizado .Net10 no desenvolvimento.
 1. Caso dê problema de Cors, verificar program no back a porta que esta liberada é a 5173
 2. Caso o back esteja em execução e não esteja carregando os dados no front, verificar a porta de acesso as API's no Axios , pasta api/api.js no front
