@@ -1,0 +1,16 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+.vscode/
+
+# Node / React
+node_modules/
+build/
+.env
+.DS_Store
+
+# Logs
+*.log
