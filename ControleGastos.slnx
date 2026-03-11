@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ControleGastos.Api\ControleGastos.Api.csproj" />
+  <Project Path="ControleGastos.DataAccess/ControleGastos.DataAccess.csproj" Id="92f6d732-2f49-41ec-8fcd-d3b9a5188402" />
+</Solution>
